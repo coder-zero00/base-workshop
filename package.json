@@ -1,0 +1,23 @@
+{
+  "name": "@coder-zero/base-workshop",
+  "version": "1.0.0",
+  "description": "Helpers to build and configure Dockerfiles, AMIs, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coder-zero00/base-workshop.git"
+  },
+  "author": "Coder Zero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coder-zero00/base-workshop/issues"
+  },
+  "homepage": "https://github.com/coder-zero00/base-workshop#readme",
+  "dependencies": {
+    "quick-merge": "^1.0.19",
+    "sg0": "^1.0.48"
+  }
+}

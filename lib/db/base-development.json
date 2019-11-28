@@ -1,0 +1,22 @@
+{
+  "from": "root-development",
+  "packages": {
+    "apt": [
+      "nodejs",
+      "ntp",
+      "curl",
+      "jq",
+      "less",
+      "rsync",
+      "htop",
+      "tree",
+      "zip",
+      "unzip",
+      "silversearcher-ag",
+      "vim",
+      "inotify-tools",
+      "perl",
+      "theend"
+    ]
+  }
+}
