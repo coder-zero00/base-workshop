@@ -1,4 +1,5 @@
 {
+  "name": "medium-development",
   "from": "light-development",
   "packages": {
     "apt": [

@@ -1,4 +1,5 @@
 {
+  "name": "base-development",
   "from": "root-development",
   "packages": {
     "apt": [

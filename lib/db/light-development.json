@@ -1,4 +1,5 @@
 {
+  "name": "light-development",
   "from": "base-development",
   "packages": {
     "apt": [
