@@ -1,0 +1,41 @@
+{
+  "from": "light-development",
+  "packages": {
+    "apt": [
+      "gcc",
+      "make",
+      "dnsutils",
+      "socat",
+      "telnet",
+      "python",
+      "autoconf",
+      "automake",
+      "debhelper",
+      "debmake",
+      "devscripts",
+      "fakeroot",
+      "file",
+      "gnupg",
+      "lintian",
+      "patch",
+      "patchutils",
+      "pbuilder",
+      "python",
+      "quilt",
+      "certbot",
+      "inotify-tools",
+      "g++",
+      "python-pip",
+      "python-virtualenv",
+      "autotools-dev",
+      "dh-make",
+      "xutils-dev",
+      "libperl-dev",
+      "theend"
+    ],
+    "pip": [
+      "awscli",
+      "theend"
+    ]
+  }
+}

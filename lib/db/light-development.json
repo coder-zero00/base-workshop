@@ -1,0 +1,14 @@
+{
+  "from": "base-development",
+  "packages": {
+    "apt": [
+      "golang-go",
+      "theend"
+    ],
+    "npm": [
+      "aws-sdk",
+      "cli-shezargs",
+      "theend"
+    ]
+  }
+}
